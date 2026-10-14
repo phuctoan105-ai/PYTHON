@@ -1,0 +1,12 @@
+print("MY DAILY ROUTINE FROM MONDAY TO FRIDAY")
+print(6,":",00,"AM - I wake up and brush my teeth.")
+print(7,":",00,"AM - I take the bus to go to school.")
+print(8,":",00,"AM - I am in class.")
+print(12,":",00,"AM - I have lunch break.")
+print(16,":",00,"AM - I finish school.")
+print(17,":",00,"AM - I go home.")
+print(18,":",00,"AM - I do my homework.")
+print(19,":",00,"AM - I eat for dinner.")
+print(20,":",00,"AM - I play or do my homework.")
+print(20,":",00,"AM - I go to bed.")
+
